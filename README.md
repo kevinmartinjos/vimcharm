@@ -2,7 +2,7 @@
 
 Approximating PyCharm on Vim.
 
-See [this](https://kevinmartinjose.com) blog post for details.
+See [this](https://kevinmartinjose.com/2020/11/22/vimcharm-approximating-pycharm-on-vim/) blog post for details.
 
 **N.B**: Simply copy-pasting the .vimrc will not work since some maps involve character sequences that won't be escaped properly if you simply copy-paste
 
